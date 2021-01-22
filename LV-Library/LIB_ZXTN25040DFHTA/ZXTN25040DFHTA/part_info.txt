@@ -1,0 +1,9 @@
+Manufacturer=Diodes Inc.
+PartNumber=ZXTN25040DFHTA
+PartCategory=Transistor BJT NPN
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.2
+Released=2015-09-02 11:17:28
+Downloaded=2020-03-04 21:10:27
+3D=N

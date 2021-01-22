@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZXTN25040DFHTA
+D NPN Bipolar Transistor, 4 A 40 V, 3-pin SOT-23
+K
+F http://www.diodes.com/_files/datasheets/ZXTN25040DFH.pdf
+$ENDCMP
+#
+#End Doc Library
